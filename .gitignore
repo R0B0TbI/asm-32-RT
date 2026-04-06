@@ -35,11 +35,15 @@
 !*.asm
 !*.sh
 !*.json
+!*.inc
 !Dockerfile
 !README.md
 !LICENSE
 !.gitignore
 !build.sh
+
+!info/
+!include/
 
 # ==========================================
 # СИСТЕМНЫЙ МУСОР
